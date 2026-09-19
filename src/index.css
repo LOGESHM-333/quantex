@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    background-color: #031316;
+    color: #E2F1F5;
+  }
+
+  .font-mono-num {
+    font-family: 'JetBrains Mono', monospace;
+    font-feature-settings: 'tnum' on, 'zero' on;
+  }
+}
+
+/* Custom dark sleek institutional scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #081B20;
+}
+::-webkit-scrollbar-thumb {
+  background: #143C45;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #1F525E;
+}
+
+/* Custom glassmorphic utilities */
+.glass-panel {
+  background: rgba(10, 34, 40, 0.75);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(22, 66, 77, 0.6);
+}
+
+.glass-card-hero {
+  background: rgba(7, 26, 31, 0.7);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(20, 68, 78, 0.5);
+}
+
+.glow-teal {
+  box-shadow: 0 0 15px rgba(0, 229, 163, 0.15);
+}

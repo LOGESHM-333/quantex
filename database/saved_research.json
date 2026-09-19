@@ -1,0 +1,20 @@
+[
+  {
+    "id": "res_1789847199776",
+    "title": "BTC-USD SMA_CROSSOVER Backtest (1y)",
+    "symbol": "BTC-USD",
+    "strategy": "SMA_CROSSOVER",
+    "parameters": {
+      "fast_period": 20,
+      "slow_period": 50
+    },
+    "resultsSummary": {
+      "total_return_pct": 0.04,
+      "sharpe_ratio": 0.0016,
+      "max_drawdown_pct": 27.43,
+      "win_rate_pct": 0,
+      "number_of_trades": 4
+    },
+    "createdAt": "2026-09-19T19:46:39.776Z"
+  }
+]

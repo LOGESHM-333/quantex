@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "entry_time": "2026-09-19T14:46:19.791Z",
+    "exit_time": null,
+    "symbol": "BTC-USD",
+    "side": "sell",
+    "quantity": 167,
+    "entry_price": 56788990,
+    "exit_price": null,
+    "pnl": 0,
+    "fees": 0,
+    "slippage": 0,
+    "signal": null
+  }
+]

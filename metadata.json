@@ -1,0 +1,6 @@
+{
+  "name": "QUANTX — Quantitative Financial Intelligence & Backtesting",
+  "description": "Institutional-grade quantitative multi-asset financial intelligence, risk analytics, and strategy backtesting terminal for Gold, Bitcoin, and NVIDIA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
