@@ -1,5 +1,31 @@
 [
   {
+    "id": "vol_1789859900868",
+    "timestamp": "2026-09-19 23:18:20",
+    "asset": "Gold, BTC & NVDA Portfolio",
+    "symbol": "WINDOWS-ALERT",
+    "currentVolatilityPct": 58.4,
+    "baselineVolatilityPct": 24.1,
+    "spikeRatio": 2.42,
+    "severity": "CRITICAL",
+    "alarmTriggered": true,
+    "voiceTriggered": true,
+    "message": "🚨 [WINDOWS EMERGENCY ALERT] Continuous Ambulance Siren Active Until User Closes Alert Window"
+  },
+  {
+    "id": "vol_1789855234169",
+    "timestamp": "2026-09-19 22:00:34",
+    "asset": "Gold, BTC & NVDA Portfolio",
+    "symbol": "WINDOWS-ALERT",
+    "currentVolatilityPct": 58.4,
+    "baselineVolatilityPct": 24.1,
+    "spikeRatio": 2.42,
+    "severity": "CRITICAL",
+    "alarmTriggered": true,
+    "voiceTriggered": true,
+    "message": "🚨 [WINDOWS EMERGENCY ALERT] Continuous Ambulance Siren Active Until User Closes Alert Window"
+  },
+  {
     "id": "vol_1789847276221",
     "timestamp": "2026-09-19 19:47:56",
     "asset": "Gold",
